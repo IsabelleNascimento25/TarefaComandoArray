@@ -1,0 +1,34 @@
+
+body{
+    background-image: linear-gradient(to left,rgb(0, 0, 0),rgb(11, 43, 19));
+   
+}
+
+
+
+table{
+  
+   border: 5px solid rgb(40, 65, 11);;
+   border-radius: 10px;
+   background-color: rgb(108, 230, 92);
+   position: center;
+   
+}
+
+
+h1{
+        font-size: 200%;
+        text-align: center;
+        color:rgba(96, 255, 11, 0.761);
+        transition: .3s;
+        font-family: Cooper;
+ }
+    
+h1:hover {
+        font-size: 250%;
+}
+tr{
+    color: hsl(125, 67%, 86%);
+
+}
+
