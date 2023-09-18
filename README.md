@@ -36,4 +36,4 @@ Professor: Leonardo Santiago Sidon da Rocha.
      * https://cursos.alura.com.br/forum/topico-array-130461
 
 ## ✒️Autores
-     * Isabelle Nascimento de Oliveira
+ <img src="isabelle.png" width="20px"> Isabelle Nascimento de Oliveira <br>
