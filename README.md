@@ -32,6 +32,8 @@ Professor: Leonardo Santiago Sidon da Rocha.
 
 ## 🔠Fontes consultadas
      * https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays
+     
+     * https://g.co/kgs/E1D83Uw
 
      * https://cursos.alura.com.br/forum/topico-array-130461
 
